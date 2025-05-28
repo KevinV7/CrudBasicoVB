@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compiled Binaries
+bin/
+obj/
+
+# Build Results
+*.dll
+*.exe
+
+# Other
+*.log
+*.db
+*.DS_Store
